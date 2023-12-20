@@ -43,6 +43,10 @@ body{
     margin-bottom: 10px;
 }
 
+.titulo {
+    text-align: center;
+}
+
 .datos img{
     width: 50px;
     height: auto;
